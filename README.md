@@ -1,3 +1,3 @@
 # Análises Exploratória de Dados
 
-Utilizando base de dados públicas e a linguagem python para criar análises exploratórias do setor automotivo
+Análises exploratórias com linguagem Python e SQL, utilizando base de dados públicas e fictícias
