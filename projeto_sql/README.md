@@ -1,1 +1,1 @@
-#teste
+Mergulhei em uma atividade da EBAC, fiz um análise aprofundada dos dados, na pele de uma analista de negócios, com uma base de clientes de um banco, o objetivo era entender a queda de 23% na receita YoY do produto. A base de dados foi extraída e criada no AWS Athena, utilizando o S3 Bucket. Utilizando SQL para exploração e análise, pude desvendar insights sobre o comportamento dos clientes e identificar oportunidades estratégicas.
