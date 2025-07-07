@@ -1,6 +1,6 @@
 # Análise de Dados de Crédito: Estratégias para Impulsionar a Receita de Cartões
 
-Recentemente, mergulhei em uma análise aprofundada dos dados de clientes de cartão de crédito de um banco, com o objetivo de entender a queda de 23% na receita YoY do produto. A base de dados foi extraída e criada no AWS Athena, utilizando o S3 Bucket. Utilizando SQL para exploração e análise, pude desvendar insights cruciais sobre o comportamento dos clientes e identificar oportunidades estratégicas.
+Recentemente, mergulhei em uma análise aprofundada dos dados de clientes de cartão de crédito de um banco, com o objetivo de entender a queda de 23% na receita YoY do produto. O dataset utilizado é uma amostra do arquivo original "credito.csv" (https://github.com/andre-marcos-perez/ebac-course-utils/tree/main/dataset) e foi criada uma tabela no AWS Athena, utilizando o S3 Bucket. Utilizando SQL para exploração e análise, pude desvendar insights sobre o comportamento dos clientes e identificar oportunidades estratégicas.
 
 ## Principais Descobertas:
 
