@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este projeto consiste em uma análise exploratória de dados (AED) focada em vendas de suplementos alimentares. Utilizando um dataset disponível publicamente no Kaggle, intitulado "Supplement Sales Data" (disponível em: [https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data/data](https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data/data)), o estudo abrange dados de vendas semanais de uma gama de suplementos de saúde e bem-estar, comercializados através de diversas plataformas de e-commerce em diferentes países.
+Este projeto consiste em uma análise exploratória de dados (AED) focada em vendas de suplementos alimentares. Utilizando um dataset disponível publicamente no Kaggle, intitulado "Supplement Sales Data" (disponível em: [https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data/data](https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data/data)), o estudo abrange dados de vendas semanais de suplementos de saúde e bem-estar, comercializados através de diversas plataformas de e-commerce em diferentes países.
 
 ## Objetivo
 
