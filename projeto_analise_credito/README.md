@@ -22,6 +22,15 @@ A análise exploratória de dados foi conduzida seguindo as etapas:
 
 - Potencial Oculto: Mesmo com limites menores, clientes da faixa "menos que $40K" com cartão Blue demonstram um valor médio de gastos significativo, muitas vezes superando outras faixas salariais.
 
+## Estrutura do Projeto
+
+O repositório está organizado da seguinte forma:
+
+*   `analise_exploratoria_de_dados_credito.ipynb`: Notebook Jupyter contendo as consultas SQL da análise exploratória de dados no AWS Athena.
+*   `credito.csv`: Arquivo utilizado nas consultas
+*   `Imagens`: Print das consultas realizadas
+*   `README.md`: Este arquivo, com a descrição detalhada do projeto.
+
 ## Solução Proposta:
 
 Identificamos uma oportunidade clara para reverter a queda de receita: promover um upgrade de cartão para clientes Blue qualificados para o cartão Silver. Esta estratégia visa capitalizar o potencial de clientes que já demonstram alto engajamento e valor de transações, mesmo com limites mais baixos. Encontramos 380 clientes com cartão Blue que já possuem limite de crédito e número de transações acima da média, tornando-os ideais para essa iniciativa.
